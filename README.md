@@ -66,7 +66,7 @@ All rights reserved to the creator (ArielTav).
 - Special thanks to open-source communities!
 
 ---
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ArielPro/ytmusicdownloader?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ArielTav/ytmusicdownloader?style=flat-square)
 ---
 
 ⭐ **If you like this project, don't forget to Star it!**
