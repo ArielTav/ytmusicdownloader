@@ -19,7 +19,7 @@ Designed with a clean matte black dark mode and neon glow accents, it lets you d
 
 ## 📥 How to Install
 
-1. Download the latest setup file from [Releases](https://github.com/YourName/ytmusicdownloader/releases).
+1. Download the latest setup file from [Releases](https://github.com/ArielPro/ytmusicdownloader/releases).
 2. Run the installer `ytmusicdownloader-setup.exe`.
 3. Follow the easy install wizard.
 4. After installation, launch **YT Music Downloader** from the Start Menu or Desktop!
