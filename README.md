@@ -55,7 +55,7 @@ Designed with a clean matte black dark mode and neon glow accents, it lets you d
 ## 📝 License
 
 This application is provided for personal use only.  
-All rights reserved to the creator.
+All rights reserved to the creator (ArielTav).
 
 ---
 
