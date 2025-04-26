@@ -4,6 +4,8 @@
 Designed with a clean matte black dark mode and neon glow accents, it lets you download your favorite tracks with just one click.
 
 ---
+[![Download Latest](https://img.shields.io/github/v/release/ArielTav/ytmusicdownloader?label=Download%20Latest&style=for-the-badge&color=blueviolet)](https://github.com/ArielTav/ytmusicdownloader/releases/latest)
+---
 
 ## ✨ Features
 
@@ -65,8 +67,6 @@ All rights reserved to the creator (ArielTav).
 - Powered by yt-dlp under the hood for stable YouTube downloads.
 - Special thanks to open-source communities!
 
----
-[![Download Latest](https://img.shields.io/github/v/release/ArielTav/ytmusicdownloader?label=Download%20Latest&style=for-the-badge&color=blueviolet)](https://github.com/ArielTav/ytmusicdownloader/releases/latest)
 ---
 
 ⭐ **If you like this project, don't forget to Star it!**
